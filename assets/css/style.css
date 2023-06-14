@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    background: pink;
+}
+
+/* I can target an element with CSS by using several different ways.
+One way is using the element name. Another way is using a class value. 
+And yet another is using the element's id, although this is frowned upon
+ in the larger community. */
+
+ .header__h2 {
+    text-align: center;
+    color: rgb(38, 8, 158);
+ }
+
+ .header__section {
+    text-align: center
+ }
+ img {
+    padding: 2rem;
+    border: solid 2px black;
+    margin: 0 auto
+ }
+
+h1 { text-align: center;}
